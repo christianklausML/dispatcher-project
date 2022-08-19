@@ -74,9 +74,9 @@ class JoinTables:
         df.dropna(inplace=True)
         print(colored(f'{round(((length - df.shape[0]) / length * 100), 1)}% of rows dropped.', "green"))
         X_train, X_test, y_train, y_test = train_test_split(df.drop(columns='DIFF_TRUE'), df['DIFF_TRUE'], test_size=0.2)
-        y_train = utils.to_categorical(y=y_train)
-        y_test = utils.to_categorical(y=y_test)
-
+        #y_train = utils.to_categorical(y=y_train)
+        #y_test = utils.to_categorical(y=y_test)
+        # comment above to lines for ML, uncomment for DL
         print(colored('train test split ready. ( ◑‿◑)', "green"))
 
         return X_train, X_test, y_train, y_test
