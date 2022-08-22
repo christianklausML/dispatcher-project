@@ -9,3 +9,7 @@ For our final project in the Data Science Bootcamp at [Le Wagon](https://www.lew
 The package used is called `dispatcher`. All the modules can be found in the sub-folder [data](https://github.com/christianklausML/dispatcher-project/tree/master/dispatcher/data).
 
 For example there is the `join` module to preprocess and join tables.
+
+## Notebooks
+
+Notebooks for EDA, Feature Engineering, Base Score, Machine Learning Model, Deep Learning Model can be found in the [notebooks folder](https://github.com/christianklausML/dispatcher-project/tree/master/notebooks).
