@@ -13,3 +13,7 @@ For example there is the `join` module to preprocess and join tables.
 ## Notebooks
 
 Notebooks for EDA, Feature Engineering, Base Score, Machine Learning Model, Deep Learning Model can be found in the [notebooks folder](https://github.com/christianklausML/dispatcher-project/tree/master/notebooks).
+
+## Presentation
+
+A screenshoted PDF of the prezi presentation can be found [here](https://drive.google.com/file/d/1QepvVIYO-8r_um6nGqxv6MiMz1Xa38Tg/view?usp=sharing).
