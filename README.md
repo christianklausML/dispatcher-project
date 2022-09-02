@@ -1,3 +1,5 @@
+![Alt text](https://github.com/christianklausML/parcel-pickup-prediction/blob/master/title.png?sanitize=true)
+
 # Dispatcher Project
 
 ## Introduction
